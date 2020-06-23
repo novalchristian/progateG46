@@ -1,0 +1,63 @@
+@media (max-width: 1000px){
+.header-list a {
+  padding: 0 10px;
+  }
+
+.top h1 {
+  font-size: 20px;
+  line-height: 40px;
+  padding: 0 40px;
+  }
+.top p {
+  padding: 15px 40px;
+  line-height: 25px;
+  padding: 0 40px;
+  }
+.btn {
+  width: 50%;
+  }
+
+.tour {
+  width: 50%;
+  }
+
+.tradisi {
+  width: 50%;
+  }
+
+}
+
+@media (max-width: 670px){
+
+ .header-list {
+  display: none;
+  }
+
+.menu-icon {
+  display: block;
+  }
+
+ .top h1 {
+   font-size: 20px;
+   line-height: 40px;
+   padding: 0 40px;
+  }
+
+.top p {
+  padding: 15px 40px;
+  line-height: 25px;
+  padding: 8px 40px;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .tour {
+    width: 100%;
+  }
+
+  .tradisi {
+    width: 50%;
+  }
+}
